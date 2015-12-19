@@ -1,0 +1,11 @@
+{
+  "name": "browserstack-runner-media-sample",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "./node_modules/browserstack-runner/bin/cli.js"
+  },
+  "author": "Shirish Kamath",
+  "devDependencies": {
+    "browserstack-runner": "git+https://github.com/browserstack/browserstack-runner#ce21352051ecddc112aa92dd81385079514ac6a2"
+  }
+}
